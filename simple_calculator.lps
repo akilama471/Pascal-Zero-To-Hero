@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="simple_calculator.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="2"/>
+        <CursorPos Y="28"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="3">
+      <Position>
+        <Filename Value="simple_calculator.lpr"/>
+        <Caret Line="26" Column="16"/>
+      </Position>
+      <Position>
+        <Filename Value="simple_calculator.lpr"/>
+        <Caret Line="2" Column="32"/>
+      </Position>
+      <Position>
+        <Filename Value="simple_calculator.lpr"/>
+        <Caret Line="27" Column="6"/>
+      </Position>
+      <Position>
+        <Filename Value="simple_calculator.lpr"/>
+        <Caret Line="12" Column="16" TopLine="2"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
