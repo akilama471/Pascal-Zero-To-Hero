@@ -1,0 +1,6 @@
+# System / Log files
+*.exe
+
+# Project files
+/backup/
+/lib/
